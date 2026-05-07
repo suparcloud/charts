@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  suparship:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2026-05-07T07:56:04.823718718Z"
+    description: suparShip — GitOps-native platform runtime. Vercel-like developer
+      experience on Kubernetes, powered by ArgoCD and Kargo.
+    digest: c18201fff7bcde251a078bc04f2e3ad989840c50648e5619a73cef1c4883207c
+    home: https://github.com/suparcloud/suparship
+    keywords:
+    - gitops
+    - argocd
+    - kargo
+    - platform
+    - developer-experience
+    maintainers:
+    - name: suparCloud
+      url: https://github.com/suparcloud
+    name: suparship
+    sources:
+    - https://github.com/suparcloud/suparship
+    type: application
+    urls:
+    - https://github.com/suparcloud/charts/releases/download/suparship-0.1.0/suparship-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-05-07T07:56:04.823728924Z"
