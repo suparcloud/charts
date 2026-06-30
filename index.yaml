@@ -26,10 +26,10 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-30T02:24:07.559424055Z"
+    created: "2026-06-29T20:07:29.371288972Z"
     description: suparShip — GitOps-native platform runtime. Vercel-like developer
       experience on Kubernetes, powered by ArgoCD and Kargo.
-    digest: 593fcd3bd0ef3b3342233fbe1b35ba970556af3a63b28d2e8adf0b3ed5104bc0
+    digest: d76fa38be796b23f5dd57ca285235de926d5a7de32e2b9cb99714c2b62b50ecc
     home: https://github.com/suparcloud/suparship
     keywords:
     - gitops
@@ -141,10 +141,33 @@ entries:
     version: 0.1.0-2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-29T20:07:29.371288972Z"
+    created: "2026-06-30T02:24:07.559424055Z"
     description: suparShip — GitOps-native platform runtime. Vercel-like developer
       experience on Kubernetes, powered by ArgoCD and Kargo.
-    digest: d76fa38be796b23f5dd57ca285235de926d5a7de32e2b9cb99714c2b62b50ecc
+    digest: 593fcd3bd0ef3b3342233fbe1b35ba970556af3a63b28d2e8adf0b3ed5104bc0
+    home: https://github.com/suparcloud/suparship
+    keywords:
+    - gitops
+    - argocd
+    - kargo
+    - platform
+    - developer-experience
+    maintainers:
+    - name: suparCloud
+      url: https://github.com/suparcloud
+    name: suparship
+    sources:
+    - https://github.com/suparcloud/suparship
+    type: application
+    urls:
+    - https://github.com/suparcloud/charts/releases/download/suparship-0.1.0-2/suparship-0.1.0-2.tgz
+    version: 0.1.0-2
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2026-06-30T02:48:12.432957551Z"
+    description: suparShip — GitOps-native platform runtime. Vercel-like developer
+      experience on Kubernetes, powered by ArgoCD and Kargo.
+    digest: 9656e10d63aff463666efa84299ce907475c953c199a2400d550d8cbefd7ca79
     home: https://github.com/suparcloud/suparship
     keywords:
     - gitops
@@ -300,4 +323,4 @@ entries:
     urls:
     - https://github.com/suparcloud/charts/releases/download/suparship-0.1.0-1/suparship-0.1.0-1.tgz
     version: 0.1.0-1
-generated: "2026-06-30T02:24:07.559535903Z"
+generated: "2026-06-30T02:48:12.433062539Z"
